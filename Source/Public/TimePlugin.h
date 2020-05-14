@@ -2,7 +2,7 @@
 * FileName: TimePlugin.h
 * Created by: EvoPulse
 * Project name: EnvironmentProject
-* Unreal Engine version: 4.24.0
+* Unreal Engine version: 4.25.0
 * Created on:
 *=================================================
 *For parts referencing UE4 code, the following copyright applies:
